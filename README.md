@@ -21,9 +21,13 @@ This project is designed and verified to run on Google Colab, ensuring easy and 
 ## File Structure
 
 ├── adapter/          # LoRA adapter files 
+
 ├── data/             # Dataset files (70 texts) 
+
 ├── inference.py      # The original script to run inference 
+
 ├── run_inference.ipynb # Notebook for easy execution on Colab
+
 └── requirements.txt  # Required Python libraries
 
 ## License
